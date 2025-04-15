@@ -9,21 +9,21 @@
   },
   "text": {
     "more": "",
-    "intro": "",
+    "intro": "일부 지하철 역의 2017년~2022년까지의 변화를 나타냈습니다.",
     "title": ""
   },
   "legend": {
-    "edgeLabel": "",
-    "colorLabel": "",
-    "nodeLabel": ""
+    "edgeLabel": "연결 노선",
+    "colorLabel": "차수",
+    "nodeLabel": "지하철역"
   },
   "features": {
     "search": true,
     "groupSelectorAttribute": false,
-    "hoverBehavior": "default"
+    "hoverBehavior": "dim"
   },
   "informationPanel": {
-    "groupByEdgeDirection": false,
+    "groupByEdgeDirection": true,
     "imageAttribute": false
   },
   "sigma": {
